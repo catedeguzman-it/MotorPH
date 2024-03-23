@@ -134,12 +134,16 @@ public class LoginGUI extends javax.swing.JFrame {
             CSVReader csvReader = new CSVReader(filereader);
             String[] nextRecord;
             String[] cred = null;
+            String hash = Hash256.toHexString(Hash256.getSHA(password));
+            System.out.println(hash);
 
             while ((nextRecord = csvReader.readNext()) != null) {
                 
-                if(nextRecord[0].equals(username ) && nextRecord[1].equals(password)){
+                if(nextRecord[0].equals(username ) && nextRecord[1].equals(hash)){
                     cred = nextRecord;
                     new PayrollGUI().setVisible(true);
+                    User.setUserID(username);
+                    User.setRole(nextRecord[2]);
                     this.dispose();
 //                    for(String cell:cred){
 //                        System.out.print(cell+"\t");
