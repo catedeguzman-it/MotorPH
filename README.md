@@ -183,3 +183,8 @@ Managers receive notifications or alerts about pending leave requests and can ac
 
 Manager Approval or Rejection:
 Managers review the leave request, considering factors such as workload, staffing requirements, and team availability.
+
+
+![Leave Application](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/589638ce-6283-460c-a742-59de515f4fce)
+
+
