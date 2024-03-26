@@ -144,3 +144,12 @@ Subtract the total deductions from the gross salary to calculate the net salary.
 
 
 ![Salary Calculation](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/0fedd64b-9fb6-46b9-9346-20f46151bd16)
+
+
+![Philhealth](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/ab6ad260-3033-4c4f-81c5-8a7d38575b8c)
+
+
+![Pag-Ibig](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/2cbb4a9a-638d-413b-b219-5adabcbb8fd8)
+
+
+![Perks](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/f725d0dd-9e03-4103-b63b-bebb87b9d079)
