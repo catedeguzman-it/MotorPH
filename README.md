@@ -153,3 +153,33 @@ Subtract the total deductions from the gross salary to calculate the net salary.
 
 
 ![Perks](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/f725d0dd-9e03-4103-b63b-bebb87b9d079)
+
+
+Leave Applications
+
+The leave management feature allows employees to apply for leave through the payroll system. This process ensures efficient handling of leave requests while maintaining transparency and compliance with company policies.
+
+Access Leave Management Module:
+Employees log in to the payroll system and navigate to the leave management module.
+
+View Leave Balances:
+Employees can view their current leave balances, including vacation days, sick leave, and other types of leave available to them.
+
+Initiate Leave Application:
+Within the leave management module, employees initiate a leave application by selecting the type of leave they wish to apply for (e.g., vacation, sick leave, personal leave).
+
+Select Leave Dates:
+Employees specify the start and end dates of their leave period, as well as the total number of days they intend to take off
+
+Provide Reason and Details:
+Employees are prompted to provide a reason for their leave request, along with any additional details or comments relevant to the request.
+
+Submit Application:
+After completing the required information, employees submit their leave application through the system.
+
+Leave Approval Workflow:
+Upon submission, the leave application is routed to the employee's manager or designated approver for review and approval.
+Managers receive notifications or alerts about pending leave requests and can access them through the system.
+
+Manager Approval or Rejection:
+Managers review the leave request, considering factors such as workload, staffing requirements, and team availability.
