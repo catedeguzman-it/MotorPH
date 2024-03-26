@@ -121,3 +121,26 @@ Server-Side Validation:The server receives the username and password and checks 
 ![User Authentication](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/1f26a986-a84a-4c2e-9f25-8e8c4823bfc1)
 
 
+Salary and Deduction Calculations
+
+This can be as simple as a basic salary calculation or a more complex computation that considers various factors.
+
+Basic Salary Calculation:
+Determine the base pay rate for employees. This can be an hourly rate, a monthly salary, or an annual salary.
+Multiply the base pay rate by the number of hours worked to calculate the salary for hourly employees.
+For salaried employees, the salary is typically fixed regardless of hours worked, so no additional calculation is necessary.
+
+
+Basic Salary Calculation with Overtime:
+Define the standard work hours for employees (e.g., 40 hours per week).
+Determine the overtime rate, which is typically 1.5 times the regular hourly rate.
+Calculate the regular pay for hours worked within the standard work hours.
+Calculate the overtime pay for hours worked beyond the standard work hours using the overtime rate.
+
+
+Salary Calculation with Deductions:
+Identify deductions that need to be subtracted from the gross salary. This may include taxes, insurance premiums, retirement contributions, and any other deductions required by law or company policy.
+Subtract the total deductions from the gross salary to calculate the net salary.
+
+
+![Salary Calculation](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/0fedd64b-9fb6-46b9-9346-20f46151bd16)
