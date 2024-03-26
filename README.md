@@ -188,3 +188,15 @@ Managers review the leave request, considering factors such as workload, staffin
 ![Leave Application](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/589638ce-6283-460c-a742-59de515f4fce)
 
 
+Technical Information
+
+This section serves as a vital resource for stakeholders seeking to gain a comprehensive understanding of the payroll system. Through detailed diagrams and thorough testing documentation, it offers valuable insights into the system's design, structure, and quality assurance processes.It delves into the system's design and structure, providing valuable insights through diagrams such as use case and class diagrams. These visual representations serve to elucidate key technical aspects, facilitating a deeper understanding of how the system operates.
+
+Use Case Diagram
+![Use Case](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/51723c7a-a12d-460c-a171-3997d41a6e27)
+
+Class Diagram
+![Class Diagram](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/b9845960-7e7e-4720-9d05-627e34e4600c)
+
+Testing
+[MO-IT110 - Object-Oriented Programming _ Test Case Document - Caritativo, M.,De Guzman, C.,Gatpo M.,Labandilo, I..xlsx](https://github.com/Mikaeell/Payrollsystem1/files/14752205/MO-IT110.-.Object-Oriented.Programming._.Test.Case.Document.-.Caritativo.M.De.Guzman.C.Gatpo.M.Labandilo.I.xlsx)
