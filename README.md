@@ -44,3 +44,31 @@ Refer to the glossary for definitions of key terms and terminology used througho
 
 Index: 
 If you're looking for specific information but can't find it in the table of contents, refer to the index at the end of the user guide. The index lists keywords and topics along with the corresponding page numbers for quick reference.
+
+Getting Started
+
+This section outlines the fundamental requirements for using the payroll system, including hardware or software prerequisites, and explains how users can access the system, whether through a web link or dedicated application.
+
+Hardware Prerequisites
+
+Users will need access to computers, laptops, tablets, or smartphones to interact with the payroll system.
+A stable internet connection is essential for accessing the payroll system online and performing various functions such as entering payroll data, generating reports, and processing payments.
+Users may require additional hardware such as printers for printing pay stubs or checks, scanners for document uploads, or biometric devices for time tracking.
+
+Software Prerequisites
+
+The payroll system may be compatible with various operating systems, including Windows, macOS, Linux, iOS, and Android. Users should ensure that their devices meet the system requirements for optimal performance.
+Users should use the latest version of their preferred web browser for the best experience.
+Payroll systems are web-based and can be accessed through standard web browsers such as Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari. 
+If the payroll system integrates with accounting or human resources software, users may need to ensure compatibility with specific software versions or configurations.
+Users should have up-to-date antivirus software and firewall protection on their devices to safeguard sensitive payroll data and prevent unauthorized access or cyber threats.
+
+Accessing The System
+
+Login Page: You will be directed to the login page of the MotorPH Payroll System. If you have a username and password.If you don't have login credentials, contact your system administrator to obtain them.
+Enter Username and Password: On the login page, enter your username and password in the designated fields. Ensure that you type the credentials correctly to avoid login errors.
+Click Login: After entering your username and password, click on the login button to proceed.
+Authentication: If multi-factor authentication is enabled, you may be prompted to provide additional verification, such as a code sent to your mobile device or email. Follow the instructions provided to complete the authentication process.
+Navigate the System: Explore the various features and functionalities available within the system .
+
+
