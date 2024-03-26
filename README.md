@@ -101,3 +101,23 @@ Navigate the System:
 Explore the various features and functionalities available within the system .
 
 
+![Login](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/0af71100-b9df-45e6-a104-da91dad93309)
+
+
+Using The Payroll System
+
+This section covers various user-related actions within the system. Depending on the complexity and scope of your payroll system, you can include the following features:
+
+Secure Login Procedures
+
+Secure login procedures are crucial for ensuring that only authorized users can access the payroll system. This process typically involves implementing strong authentication measures to protect sensitive employee data and prevent unauthorized access.
+
+User Input: Users navigate to the login page of the payroll system.
+Credentials Input: Users enter their username and password into the designated fields.
+Transmission: Upon clicking the login button, the entered credentials are securely transmitted to the server hosting the payroll system. 
+Server-Side Validation:The server receives the username and password and checks if the provided username exists in its database.
+
+
+![User Authentication](https://github.com/Mikaeell/Payrollsystem1/assets/129654832/1f26a986-a84a-4c2e-9f25-8e8c4823bfc1)
+
+
